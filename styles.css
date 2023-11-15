@@ -27,7 +27,7 @@ div{
 	border:2px solid black;
 	border-radius:6px;
 }
-video{
+..player_one{
 	width:92%;
 	padding:20px 20px 0px 20px;
 }
@@ -36,7 +36,7 @@ label{
 	font-weight:bold;
 /* 	font-family:aria; */
 }
-audio{
+..player_two{
 /* 	padding-left:25%; */
 	width:100%;
 }
